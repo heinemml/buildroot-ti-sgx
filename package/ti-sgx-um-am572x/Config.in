@@ -35,6 +35,9 @@ config BR2_PACKAGE_PROVIDES_LIBEGL
 config BR2_PACKAGE_PROVIDES_LIBGLES
 	default "ti-sgx-um-am572x"
 
+config BR2_PACKAGE_PROVIDES_LIBGBM
+	default "ti-sgx-um-am572x"
+
 config BR2_PACKAGE_PROVIDES_POWERVR
 	default "ti-sgx-um-am572x"
 
