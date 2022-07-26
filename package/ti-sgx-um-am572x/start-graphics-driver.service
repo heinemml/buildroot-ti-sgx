@@ -1,0 +1,11 @@
+[Unit]
+Description=Initializing SGX graphics driver
+After=network.target
+
+[Install]
+WantedBy=multi-user.target
+
+[Service]
+Type=oneshot
+ExecStart=-/usr/bin/pvrsrvctl --start --no-module
+
