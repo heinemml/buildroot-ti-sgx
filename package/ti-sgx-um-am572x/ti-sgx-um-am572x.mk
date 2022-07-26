@@ -4,6 +4,7 @@
 #
 ################################################################################
 
+# HEAD of branch https://git.ti.com/cgit/graphics/omap5-sgx-ddk-um-linux/log/?h=1.17.4948957-next
 TI_SGX_UM_AM572X_VERSION = 742cf38aba13e1ba1a910cf1f036a1a212c263b6
 TI_SGX_UM_AM572X_SITE = https://git.ti.com/cgit/graphics/omap5-sgx-ddk-um-linux/snapshot
 TI_SGX_UM_AM572X_SOURCE = omap5-sgx-ddk-um-linux-$(TI_SGX_UM_AM572X_VERSION).tar.xz
